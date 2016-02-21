@@ -13,4 +13,4 @@ A starter project and small example of how to write Components and Services in E
 4. Check out localhost:8080 to edit your Angular 2 app on webpack's dev server.
 
 ### About
-Uses Webpack and Babel to transpile the "@" decorators to ES2015 javascript.  Also makes use of [Webpack's dev server](https://webpack.github.io/docs/webpack-dev-server.html) feature to live reload changes.
+Uses Webpack and Babel to transpile the "@" decorators to ES2015 javascript.  Also makes use of [Webpack's dev server](https://webpack.github.io/docs/webpack-dev-server.html) for live reloading changes during app development.
